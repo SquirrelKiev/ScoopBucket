@@ -4,6 +4,12 @@
 
 Bucket for [Scoop](https://scoop.sh), the Windows command-line installer.
 
+## Available Tools
+
+* [redumper](https://github.com/superg/redumper)
+* [redumper GUI](https://github.com/Deterous/Redumper-GUI)
+* [MPF](https://github.com/SabreTools/MPF)
+
 ## How do I install these manifests?
 
 After manifests have been committed and pushed, run the following:
