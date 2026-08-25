@@ -1,4 +1,4 @@
-# Scoop Bucket Template
+# enonibucket Scoop Bucket
 
 [![Tests](https://github.com/SquirrelKiev/ScoopBucket/actions/workflows/ci.yml/badge.svg)](https://github.com/SquirrelKiev/ScoopBucket/actions/workflows/ci.yml) [![Excavator](https://github.com/SquirrelKiev/ScoopBucket/actions/workflows/excavator.yml/badge.svg)](https://github.com/SquirrelKiev/ScoopBucket/actions/workflows/excavator.yml)
 
